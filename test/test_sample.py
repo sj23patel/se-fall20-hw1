@@ -1,7 +1,6 @@
 import sys
-sys.path.append("../code")
-# import code
-from mod import inc
+sys.path.append("../")
+import script
 
 def test_should_pass():
     assert code.inc(3) == 4
