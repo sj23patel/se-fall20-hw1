@@ -1,7 +1,7 @@
-import code
+import code.main as m
 
 def test_should_pass():
-    assert code.inc(3) == 4
+    assert m.inc(3) == 4
 
 def test_should_fail():
-    assert not code.inc(3) == 5
+    assert not m.inc(3) == 5

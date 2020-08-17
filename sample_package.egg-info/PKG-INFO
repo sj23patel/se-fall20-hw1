@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: sample-package
+Version: 1.0
+Summary: CSC 510: Software Engineering Project 1
+Home-page: https://github.com/txt/se20/blob/master/docs/h01work.md
+Author: Omkar Kulkarni
+Author-email: omkar.omkar.135@gmail.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.6
