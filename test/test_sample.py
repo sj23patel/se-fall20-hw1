@@ -1,7 +1,7 @@
 import code
 
 def test_should_pass():
-    assert script.inc(3) == 4
+    assert code.inc(3) == 4
 
 def test_should_fail():
-    assert not script.inc(3) == 5
+    assert not code.inc(3) == 5
