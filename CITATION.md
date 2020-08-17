@@ -1,7 +1,7 @@
 # Cite as
 
 Nirav Shah,Omkar Kulkarni,Chintan Gandhi, Suraj Patel, Jay Modi      
-sj23patel/se-fall20-hw1:
+se-fall20-hw1:
 Group 23,   
 August, 2020
 
@@ -13,7 +13,7 @@ August, 2020
   publisher = {Zenodo},
   year      = {2020},
   month     = {August}
-  version      = {v1.0.1},
-  url          = {https://doi.org/10.5281/zenodo.3988512}
+  version   = {v1.0.1},
+  url       = {https://doi.org/10.5281/zenodo.3988512}
 }
 ```
