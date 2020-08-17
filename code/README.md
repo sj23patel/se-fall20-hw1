@@ -1,4 +1,4 @@
 # se-fall20-hw1
-## Scripts
+## Code
 
 Contains basic code modules
