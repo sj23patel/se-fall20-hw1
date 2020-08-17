@@ -1,9 +1,7 @@
-import sys
-sys.path.append("../")
-import script
+import code.main as cm
 
-def test_should_pass():
-    assert script.inc(3) == 4
+def test_correctness():
+    assert cm.inc(3) == 4
 
-def test_should_fail():
-    assert not script.inc(3) == 5
+def test_incorrectness():
+    assert not cm.inc(3) == 5
