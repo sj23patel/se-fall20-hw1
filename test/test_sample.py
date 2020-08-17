@@ -1,6 +1,4 @@
-import sys
-sys.path.append("../")
-import script
+import code
 
 def test_should_pass():
     assert script.inc(3) == 4
